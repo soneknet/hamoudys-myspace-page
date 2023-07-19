@@ -53,7 +53,7 @@ Master Container
 */
 .master-container {
   margin: auto;
-  width: 800px;
+  width: 1000px;
   background-color: white;
 }
 
@@ -178,7 +178,7 @@ Page Content Container
 */
 .page-content-container {
   display: grid;
-  grid-template-columns: 325px 453px;
+  grid-template-columns: 375px 580px;
   grid-column-gap: 20px;
   grid-template-areas: "sidebar main";
 }
@@ -215,7 +215,7 @@ Profile Picture Container
 .profile-picture-container {
   display: grid;
   grid-template-columns: 170px 115px;
-  grid-template-rows: 176px;
+  grid-template-rows: 190px;
   grid-column-gap: 15px;
   margin-bottom: 12px;
 }
