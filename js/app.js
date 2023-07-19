@@ -228,9 +228,9 @@ class MyspaceMusicPlayer {
 
 let settings = {
   containerID: 'myspace-music-player',
-  song: 'Such Great Heights',
-  artist: 'The Postal Service',
-  audioFilePath: 'audio/The_Postal_Service_-_Such_Great_Heights.mp3'
+  song: 'Tom Sawyer',
+  artist: 'Rush',
+  audioFilePath: 'audio/Rush-Tom Sawyer.mp3'
 };
 
 let musicPlayer = new MyspaceMusicPlayer(settings);
